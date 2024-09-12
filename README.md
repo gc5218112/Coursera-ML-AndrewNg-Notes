@@ -2,6 +2,8 @@
 
 课程地址：<https://www.coursera.org/course/ml>
 
+[**笔记在线阅读**](http://www.ai-start.com/ml2014)
+
 **Machine Learning**(机器学习)是研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。它是人工智能的核心，是使计算机具有智能的根本途径，其应用遍及人工智能的各个领域，它主要使用归纳、综合而不是演译。在过去的十年中，机器学习帮助我们自动驾驶汽车，有效的语音识别，有效的网络搜索，并极大地提高了人类基因组的认识。机器学习是当今非常普遍，你可能会使用这一天几十倍而不自知。很多研究者也认为这是最好的人工智能的取得方式。在本课中，您将学习最有效的机器学习技术，并获得实践，让它们为自己的工作。更重要的是，你会不仅得到理论基础的学习，而且获得那些需要快速和强大的应用技术解决问题的实用技术。最后，你会学到一些硅谷利用机器学习和人工智能的最佳实践创新。
 
 本课程提供了一个广泛的介绍机器学习、数据挖掘、统计模式识别的课程。主题包括：
@@ -26,19 +28,18 @@
 
 2018-3-26 夜
 
-微信公众号：机器学习初学者 ![gongzhong](/images/gongzhong.png)
-
+微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
 [我的知乎](https://www.zhihu.com/people/fengdu78/activities)
 
-参考：https://www.coursera.org/course/ml 机器学习公开课
+参考：
 
-https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 的个人笔记
+1. https://www.coursera.org/course/ml 机器学习公开课
+2. https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 的个人笔记
 
-《统计学习方法》李航
-​    
-《机器学习课》邹博
+3. 《统计学习方法》李航   
+4. 《机器学习课》邹博
 
-## 备注：吴恩达老师的深度学习课（deepLearning.ai）的笔记地址：https://github.com/fengdu78/deeplearning_ai_books
+备注：吴恩达老师的深度学习课（deepLearning.ai）的笔记地址：https://github.com/fengdu78/deeplearning_ai_books
 
 -----------------------
 
@@ -54,17 +55,19 @@ https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/213348
 
 **ppt**：课程的原版课件
 
-**srt**：课程的中英文字幕（**mp4**文件需要在百度云下载，大家可以用记事本或者字幕编辑软件来编辑字幕，共同完善，百度云链接：https://pan.baidu.com/s/1h8QjqBlOm0Exh7orm9teMQ 密码：d3we，下载后解压）
+**srt**：课程的中英文字幕（**mp4**文件需要在百度云下载，大家可以用记事本或者字幕编辑软件来编辑字幕，共同完善。
 
-**code**：课程的**python**代码（有一部分是国外大牛写的）
+百度云链接：https://pan.baidu.com/s/1h8QjqBlOm0Exh7orm9teMQ 密码：d3we，下载后解压）
 
-机器学习视频下载链接：https://pan.baidu.com/s/1raoOPOg 密码：48m8，包含视频和字幕，下载后解压，建议用**potplayer**播放，此视频与**mp4**一致。
+**code**：课程的**python**代码
+
+机器学习课程视频：https://www.bilibili.com/video/BV1W34y1i7xK
 
 [笔记在线阅读](http://www.ai-start.com/ml2014)
 
-笔记pdf版本下载 ：见**github**根目录。
+笔记pdf版本下载 ：见**Github**根目录。
 
-机器学习qq群：774999266 
+机器学习qq群：955171419（我们有13个群，加过一个就不需要加了）
 
 -----------------------
 
@@ -358,5 +361,5 @@ https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/213348
 
 
 
-**机器学习爱好者qq群：774999266** 
+**机器学习qq群：955171419（我们有13个群，加过一个就不需要加了）** 
 
